@@ -7,7 +7,7 @@ Application that allows a group of people to play role playing campaings compose
 
 1. Users can managean account to play.
 2. A user can create and edit a session as the Game Master.
-3. Game Master can invite players to the session.
+3. Game Master can invite players to join the session.
 4. Participants have to be able to see and hear each other at all times.
 5. Players can upload an image of their character sheet.
 6. Each participant can talk privately to any other participant in a private chat.
@@ -28,6 +28,7 @@ Application that allows a group of people to play role playing campaings compose
 
 ## Next Features
 
+    Add other users as friends.
     Game Master can create a campaing.
     Game Master can create sessions inside a campaing.
     Players can upload an image of their character.
